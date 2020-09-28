@@ -1,0 +1,17 @@
+/* #world {
+  padding-bottom: 10px;
+}
+table {
+  background-color: whitesmoke;
+}
+td {
+  border: 1px solid darkgray;
+  width: 10px;
+  height: 10px;
+}
+ */
+
+ background-image{ 
+   linear-gradient:#333 1px, transparent 1px;           
+   linear-gradient: 90deg, #333 1px, transparent 1px;
+ }
